@@ -22,6 +22,7 @@ public class spain extends Asia {
 			spain a = new spain();
 			String india = a.india("suresh", 24);
 			System.out.println(india);
+			System.out.println("kanishkar");
 			
 			
 			
